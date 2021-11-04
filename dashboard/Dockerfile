@@ -1,1 +1,1 @@
-from kubernetesui/dashboard:v2.2.0
+FROM kubernetesui/dashboard:v2.2.0
